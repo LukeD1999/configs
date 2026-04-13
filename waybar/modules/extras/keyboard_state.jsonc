@@ -1,0 +1,18 @@
+{
+	"keyboard-state": {
+		// "interval":
+		"format": " {icon}",
+		"format-icons": {
+			"locked": "AA",
+			"unlocked": "aa",
+      "min-length": "8",
+      "max-length": "8"
+		},
+		// "numlock":
+		"capslock": true,
+		// "scrolllock":
+		// "device-path":
+		"binding-keys": [ 1, 58 ]
+		// "expand":
+	}
+}
