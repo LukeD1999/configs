@@ -2,4 +2,10 @@
 
 
 
-# NO GIRLS ALLOWED
+# GIRLS ALLOWED
+
+
+
+# CHANGELOG:
+  - Added some more neovim plugins
+  - Allowed girls
